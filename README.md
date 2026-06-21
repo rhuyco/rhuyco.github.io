@@ -1,10 +1,9 @@
-```html
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>我要学泰语！</title>
+    <title>Ruai干倒白泥 | 泰娱妈咪必备</title>
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -27,11 +26,11 @@
             theme: {
                 extend: {
                     colors: {
-                        'ruai-bg': '#f3f4f6', // gray-100
-                        'ruai-text': '#1f2937', // gray-800
-                        'ruai-accent': '#f472b6', // pink-400
-                        'ruai-soft-blue': '#bfdbfe', // blue-200
-                        'ruai-dark-blue': '#1e3a8a', // blue-900
+                        'ruai-bg': '#f3f4f6',
+                        'ruai-text': '#1f2937',
+                        'ruai-accent': '#f472b6',
+                        'ruai-soft-blue': '#bfdbfe',
+                        'ruai-dark-blue': '#1e3a8a',
                     },
                     fontFamily: {
                         sans: ['"Noto Sans Thai"', 'sans-serif'],
@@ -656,5 +655,3 @@
     </script>
 </body>
 </html>
-
-```
